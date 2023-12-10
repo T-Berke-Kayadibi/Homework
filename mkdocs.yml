@@ -1,0 +1,16 @@
+site_name: Network Security Strategies and Applications
+
+nav:
+    - Home: index.md
+    - "Network Security Strategies": "HW.md"
+
+theme: readthedocs
+
+markdown_extensions:
+    - admonition
+    - codehilite
+    - pymdownx.arithmatex
+    - toc
+
+plugins:
+    - search
