@@ -114,8 +114,6 @@ Snort screenshot view given below.
 
 * Command-line interface for advanced users.
 
-
-
 App interface in dark mode.
 
 ![pfSense - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/3/38/Dashboard_der_pfSense_2.6.0.jpg)
@@ -433,6 +431,10 @@ By implementing these strategic approaches and maintaining a layered security st
 26. *What is a firewall?* (2023, October 6). Cisco. https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html#:~:text=A%20firewall%20is%20a%20network,defined%20set%20of%20security%20rules.
 
 27. *What is Cryptography? Definition, Importance, Types | Fortinet*. (n.d.). Fortinet. https://www.fortinet.com/resources/cyberglossary/what-is-cryptography#:~:text=The%20Importance%20of%20Cryptography&text=Individuals%20and%20organizations%20use%20cryptography,to%20the%20sender%20and%20recipient.
+
+28. [Network Security Strategies and Applications](https://t-berke-kayadibi.github.io/Homework/)
+
+29. https://t-berke-kayadibi.github.io/Homework/
 
 ### **Additional Resources:**
 
